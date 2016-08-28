@@ -1,0 +1,5 @@
+MPCDS:
+"/_bagui/mpcds/MarioPaintComposer.nds"//file path
+[$PRGMPATH$,$FILEPATH$]//arguments are separated by commas
+;
+
